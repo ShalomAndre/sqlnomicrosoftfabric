@@ -1,6 +1,6 @@
 # Building a Training & Certification Data Platform with Microsoft Fabric
-
 ---
+![Empresa]()
 ## 🏢 Business Context
 
 A empresa **TechSkills Africa** fornece:
